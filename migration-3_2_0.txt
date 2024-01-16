@@ -1,0 +1,4 @@
+Intégration des campagnes dans les publications
+Les campagnes de tests sont dorénavant incluses dans les publications.
+Vos anciennes campagnes ont donc été rattachées à leur publication respective.
+
